@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Images/Cartoon.jpeg" alt="Cartoon of the Project" width="500"/>
+  <img src="./Images/Cartoon4.jpeg" alt="Cartoon of the Project" width="500"/>
 </p>
 
 # 🎉 Happy Birthday, myRuby 🎂💜
